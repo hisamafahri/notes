@@ -6,7 +6,7 @@ As simple, as that. But it saves my moods, and time A LOT.
 
 ## Usage
 
-Visit [https://notes.hisamafahri.com].
+Visit [https://notes.hisamafahri.com](https://notes.hisamafahri.com).
 
 ## Build your own
 
